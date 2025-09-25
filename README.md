@@ -2,9 +2,9 @@
 Messenger is a chat application build with the power of MERN Stack.
 
 
-![login page](./screenshots/messenger_login.png)
+![login page](./screenshots/messenger.png)
 
-![home page](./screenshots/messenger.png)
+![home page](./screenshots/messenger_login.png)
 
 ## Installation Guide
 
